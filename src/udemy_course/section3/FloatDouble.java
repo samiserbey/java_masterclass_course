@@ -1,4 +1,4 @@
-package udemy_course.step3;
+package udemy_course.section3;
 
 public class FloatDouble {
     public static void main(String[] args) {
