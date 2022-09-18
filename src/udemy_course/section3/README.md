@@ -8,8 +8,8 @@ In this section I got introduce to Java basics: declaration statements, expressi
 - long (64 bits)
 
 
-- float (32 bits)
-- double (64 bits) => double is faster so its highly recommend to use it over float
+- float (32 bits) => use `f` to tell compiler to treat literal as float instead of double eg. 2.4f
+- double (64 bits) => double is faster so its highly recommend to use it over float. use `d` to tell compiler that literal is double and not integer eg. 2d
 - NOTE: float or double are not great for precise calculations. we should use **BigDecimal**.
 
 
