@@ -1,5 +1,5 @@
 # Section 4: Java tutorial: Expressions, Statements, Code blocks, Methods and more
-In this section I got introduce to Java basics: declaration statements, expressions and primitive data types.
+In this section I learned how to write methods and code blocks in Java.
 
 ## Keywords and expressions:
 - java keywords: https://en.wikipedia.org/wiki/List_of_Java_keywords
