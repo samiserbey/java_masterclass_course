@@ -16,3 +16,7 @@ if (`score > 99`) {
 - Whitespace between variables and operators.
 - Multiple whitespaces will get removed by the compiler.
 - Identation in IntelliJ: Code > Reformat code
+
+## Method overloading
+- `Method overloading` is a feature that allows us to have more than one method with the `same name`, so long as we use `different parameters`.
+- It improves code readability and re-usability.
