@@ -1,4 +1,4 @@
-package udemy_course.step4;
+package udemy_course.section5;
 
 import java.util.Scanner;
 
